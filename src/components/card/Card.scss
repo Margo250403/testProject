@@ -1,0 +1,25 @@
+@import '../../App.scss';
+
+.card {
+    padding: 20px;
+    background-color: #212121;
+    border-radius: 10px;
+    line-height: 1.5;
+
+    &__title{
+        font-size: 18px;
+        font-weight: 700;
+        text-align: justify;
+        color: #000;
+    }
+    &__number{
+        font-size: 18px;
+        font-weight: 500;
+        color: gray;
+    }
+    &__comments{
+        font-size: 18px;
+        font-weight: 500;
+        color: gray;
+    }
+}

@@ -1,0 +1,22 @@
+@import '../../App.scss';
+
+
+body {
+    background-color: #fff;
+    color: #000;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+}
+
+.input-url {
+    width: 83%;
+    height: 47px;
+    border: 3px solid #000;
+    border-radius: 7px;
+    outline: none;
+    background: #fff;
+    font-size: 18px;
+    color: rgb(32, 31, 31);
+    padding: 10px 15px;
+    margin: 10px 35px 27px 20px;
+}
